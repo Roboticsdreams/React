@@ -1,0 +1,12 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npm start --prefix starktower",
+    "build": "cd starktower && npm run build",
+    "install": "npm install --prefix starktower"
+  },
+  "author": "p.rathinavel",
+  "license": "ISC"
+}
